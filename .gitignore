@@ -1,0 +1,14 @@
+# Dependencies (recreated by `npm install`)
+node_modules/
+
+# Your local settings and passwords (copy .env.example to .env)
+.env
+
+# Logs
+npm-debug.log*
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

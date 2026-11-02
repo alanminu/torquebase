@@ -1,0 +1,17 @@
+{
+  "name": "torquebase",
+  "version": "1.0.0",
+  "description": "TorqueBase: garage, asset and inventory management for student racing teams (Node.js, Express, MongoDB)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "seed": "node seed.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.3",
+    "express": "^5.2.1",
+    "mongodb": "^7.6.0",
+    "mongodb-memory-server": "^11.3.0"
+  }
+}
